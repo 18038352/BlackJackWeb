@@ -1,0 +1,26 @@
+body{
+  background-color: green;
+  font-family: 'Trebuchet MS'
+}
+
+
+h1{
+  color: goldenrod;
+}
+
+h2{
+  color: white
+}
+
+
+button{
+  width: 150px;
+  background-color: goldenrod;
+  color: green;
+  font-family: 'Trebuchet MS';
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+}
